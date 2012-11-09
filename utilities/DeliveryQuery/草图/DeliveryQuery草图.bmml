@@ -1,0 +1,56 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="359" measuredH="519" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="77" y="9" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="105" y="393" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Csmall</icon>
+        <text>%u6211%u7684%u5FEB%u9012</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="158" y="393" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Csmall</icon>
+        <text>%u5FEB%u9012%u67E5%u8BE2</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="213" y="393" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ThumbsUpIcon%7Csmall</icon>
+        <text>%u5FEB%u9012%u5927%u5168</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="268" y="393" w="-1" h="-1" measuredW="71" measuredH="46" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>JumpOutIcon%7Csmall</icon>
+        <text>%u6211%u8981%u5BC4%u5FEB%u9012</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::List" x="105" y="150" w="227" h="243" measuredW="100" measuredH="254" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8%0A%u5FEB%u9012%u516C%u53F8%20%u5FEB%u9012%u53F7%20%u76EE%u524D%u72B6%u6001%20%u5907%u6CE8</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="162" y="116" w="-1" h="-1" measuredW="102" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6839%u636E%u72B6%u6001%u7B5B%u9009</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="277" y="114" w="-1" h="-1" measuredW="48" measuredH="30" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PlusBigIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="109" y="114" w="-1" h="-1" measuredW="40" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>InfoIcon%7Cxsmall</icon>
+        <menuIcon>false</menuIcon>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
